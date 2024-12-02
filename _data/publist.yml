@@ -1,3 +1,36 @@
+- title: "Subsurface microbial community structure shifts along the geological features of the Central American Volcanic Arc"
+  image:
+  description: We find shifts in community composition along the convergent margin, with communities in similar geological settings clustering together independently of the proximity of sample sites. Microbial community composition correlates with geological variables such as host rock type, maturity of hydrothermal fluid and slab depth along different segments of the CAVA. This reveals tight coupling between deep Earth processes and subsurface microbial activity, controlling community distribution, structure and composition along a convergent margin.
+  authors: Marco Basili, Timothy J Rogers, Mayuko Nakagawa, Mustafa Yücel, J Maarten de Moor, Peter H Barry, Matthew O Schrenk, Gerdhard L Jessen, Ricardo Sánchez-Murillo, Sabin Zahirovic, David V Bekaert, Carlos J Ramirez, Deborah Bastoni, Angelina Cordone, Karen G Lloyd, Donato Giovannelli
+  doi: 10.1371/journal.pone.0308756
+  link:
+    url: https://doi.org/10.1371/journal.pone.0308756
+    display: PLoS ONE, 2024
+  highlight: 1
+  news2:
+
+- title: "Targeting deeply-sourced seeps along the Central Volcanic Zone"
+  image:
+  description: We carried out a scientific expedition, sampling along a ~800 km convergent margin segment of the Andean Convergent Margin in the Central Volcanic Zone of northern Chile, between 17 °S and 24 °S, sampling fluids, gases and sediments, in an effort to understand interactions between microbiology, deeply-sourced fluids, the crust, and tectonic parameters. We collected samples from 38 different sites, representing a wide diversity of seep types in different geologic contexts. Here we report the field protocols and the descriptions of the sites and samples collected.
+  authors: Deborah Bastoni, Mauricio Aguilera, Felipe Aguilera, Jenny M Blamey, Joy Buongiorno, Agostina Chiodi, Angelina Cordone, Alfredo Esquivel, Marco Giardina, Cristobal Gonzalez, Joaquin Gutierrez, Nahun Irarrazabal, Viola Krukenberg, Susana Layana, Jacopo Pasotti, Carlos J Ramirez, Alejandro Rodriguez, Timothy J Rogers, Claudia Rojas, Jorge Sánchez-SanMartín, Matt O Schrenk, Hector Vallejos, Gerdhard L Jessen, Peter H Barry, J Maarten de Moor, Karen G Lloyd, Donato Giovannelli
+  doi: 10.1371/journal.pone.0234839
+  link:
+    url: https://open-research-europe.ec.europa.eu/articles/4-226
+    display: Open Research Europe, 2024
+  highlight: 0
+  news2:
+
+- title: "Complex organic matter degradation by secondary consumers in chemolithoautotrophy-based subsurface geothermal ecosystems"
+  image:
+  description: Microbial communities in terrestrial geothermal systems often contain chemolithoautotrophs with well-characterized distributions and metabolic capabilities. However, the extent to which organic matter produced by these chemolithoautotrophs supports heterotrophs remains largely unknown. Here we compared the abundance and activity of peptidases and carbohydrate active enzymes (CAZymes) that are predicted to be extracellular identified in metagenomic assemblies from 63 springs in the Central American and the Andean convergent margin (Argentinian backarc of the Central Volcanic Zone), as well as the plume-influenced spreading center in Iceland. All assemblies contain two orders of magnitude more peptidases than CAZymes, suggesting that the microorganisms more often use proteins for their carbon and/or nitrogen acquisition instead of complex sugars. The CAZy families in highest abundance are GH23 and CBM50, and the most abundant peptidase families are M23 and C26, all four of which degrade peptidoglycan found in bacterial cells. This implies that the heterotrophic community relies on autochthonous dead cell biomass, rather than allochthonous plant matter, for organic material. Enzymes involved in the degradation of cyanobacterial- and algal-derived compounds are in lower abundance at every site, with volcanic sites having more enzymes degrading cyanobacterial compounds and non-volcanic sites having more enzymes degrading algal compounds. Activity assays showed that many of these enzyme classes are active in these samples. High temperature sites (> 80°C) had similar extracellular carbon-degrading enzymes regardless of their province, suggesting a less well-developed population of secondary consumers at these sites, possibly connected with the limited extent of the subsurface biosphere in these high temperature sites. We conclude that in < 80°C springs, chemolithoautotrophic production supports heterotrophs capable of degrading a wide range of organic compounds that do not vary by geological province, even though the taxonomic and respiratory repertoire of chemolithoautotrophs and heterotrophs differ greatly across these regions.
+  authors: Raegan Paul, Timothy J Rogers, Kate M Fullerton, Matteo Selci, Martina Cascone, Murray H Stokes, Andrew D Steen, J Maarten de Moor, Agostina Chiodi, Andri Stefánsson, Sæmundur A Halldórsson, Carlos J Ramirez, Gerdhard L Jessen, Peter H Barry, Angelina Cordone, Donato Giovannelli, Karen G Lloyd
+  doi: 10.1371/journal.pone.0281277
+  link:
+    url: https://doi.org/10.1371/journal.pone.0281277
+    display: PLoS ONE, 2023
+  highlight: 1
+  news2:  
+
 - title: "Chemolithoautotroph distributions across the subsurface of a convergent margin"
   image:
   description: 
@@ -5,21 +38,20 @@
   doi: https://doi.org/10.5281/zenodo.6259294
   link:
     url: https://rdcu.be/cZpyO
-    display: International Society of Microbial Ecology Journal, 2021
-  highlight: 0
-  news2:  
-
-- title: "Novel taxa of Acidobacteriota implicated in seafloor sulfur cycling"
-  image: svalbardensis.png
-  description: Sulfate reduction is a major process in marine sediments, the activities, distributions, and diversity of SRMs have been relatively well studied. Surveys of functional marker genes for sulfite/sulfate reducers in marine sediments, i.e., of dsrAB, have repeatedly shown that dsrAB from the phylum Desulfobacterota are typically the dominant dsrAB-harboring group in marine sediments, but importantly, that several other lineages of uncultivated dsrAB-harboring organisms are also abundant and prevalent. In this study, we aimed to gain insights into the metabolic potential of uncultured Acidobacteriota lineages in marine sediments, as well as their diversity and distributions. We therefore recovered metagenome-assembled genomes (MAGs) from abundant Acidobacteriota populations present in marine fjord sediments of Svalbard, and predicted their metabolic features. Focus was placed on MAGs from the class Thermoanaerobaculia of the Acidobacteriota, which represent a newly described lineage of dsrAB-harboring organisms that may be important sulfur cycling bacteria in marine sediments. These analyses were complemented with comparative genomics, incubation experiments, transcript analyses, and analyses of Acidobacteriota distributions in Svalbard sediments and publicly available datasets, together revealing they may play various roles in sedimentary biogeochemical cycles, and that they are a prominent group of sulfur-dissimilating organisms.
-  authors: M. Flieder, J. Buongiorno, C. W. Herbold, B. Hausmann, T. Rattei, K. G. Lloyd, A. Loy, and K. Wasmund.
-  doi: https://doi.org/10.1038/s41396-021-00992-0
-  link:
-    url: https://doi.org/10.1038/s41396-021-00992-0
-    display: ISME J, 2021
+    display: International Society of Microbial Ecology Journal, 2022
   highlight: 1
-  news2: I made a KBase Narrative landing page <a href= 'https://kbase.us/n/97146/7/'> here </a> so you can explore our data and analysis.
-
+  news2:  
+  
+  - title: "The helium and carbon isotope characteristics of the Andean Convergent Margin"
+  image:
+  description: 
+  authors: PH Barry, JM De Moor, A Chiodi, F Aguilera, MR Hudak, DV Bekaert, SJ Turner, J Curtice, AM Seltzer, GL Jessen, E Osses, JM Blamey, MJ Amenábar, M Selci, M Cascone, A Bastianoni, M Nakagawa, R Filipovich, Emilce Bustos, MO Schrenk, J Buongiorno, CJ Ramírez, TJ Rogers, KG Lloyd, D Giovannelli
+  doi: 10.3389/feart.2022.897267
+  link:
+    url: https://doi.org/10.3389/feart.2022.897267 
+    display: Frontiers in Earth Science, 2022
+  highlight: 0
+  news2: 
 
 - title: "Effect of tectonic processes on biosphere–geosphere feedbacks across a convergent margin"
   image: Nat_geosci.png
@@ -30,91 +62,27 @@
     url: https://doi.org/10.1038/s41561-021-00725-0
     display: Nature Geoscience, 2021
   highlight: 1
-  news2:
+  news2: 
 
-- title: "Woeseiales transcriptional response to shallow burial in Arctic fjord surface sediment"
-  image: Sox.png
-  description: The focus of this paper is a member of the Gammaproteobacteria found in marine sediments worldwide named Woeseiales (formerly JTB255). To understand the response to burial within this clade, we used a MAG-centric transcriptomic approach. We discovered that transcripts for a single gene increased by ~1000x upon burial within just the first few cm of sediment, while other gene transcripts decrease. This points to a potential dormancy response without canonical sporulation. Code for analysis and figures can be found on my Github. 
-  authors: J.Buongiorno, K. Sipes, K. Wasmund, A. Loy, K.G. Lloyd
-  doi: 10.1371/journal.pone.0234839
-  link:
-    url: https://doi.org/10.1371/journal.pone.0234839
-    display: PloS ONE, 2020
-  highlight: 1
-  news2:
-
-
-- title: "Mineralized microbialites as archives of environmental evolution, Laguna Negra, Catamarca Province, Argentina"
-  image: thumb-Geobio_cover.jpg
-  description: In this paper, we examined isotopic and elemental signatures in carbonate microbialites a.k.a microbially-mediated rocks. The concentric bands inside the rock preserve a time-series of lake evolution. Much like tree rings, these laminations allow reconstruction of lake history through interpretation of paired isotopes of carbon, sedimentary organic matter, and trace metal content. Code for analysis and figures can be found on my Github. 
-  authors: J. Buongiorno, F.J. Gomez, D.A. Fike, L.C. Kah
-  doi: 10.1111/gbi.12327
-  link:
-    url: https://doi.org/10.1111/gbi.12327
-    display: Geobiology, 2019
-  highlight: 1
-  news2:
-
-
-- title: "Exploring Carbon Mineral Systems: Recent Advances in C Mineral Evolution, Mineral Ecology, and Network Analysis"
-  image: Review.jpg
-  description: Data science has a lot to offer to the geoscience community. This paper reviewes the latest developments in mineral ecology using cutting edge visualization techniques, network analysis, and affinity algorithms. When applied to large, public data repositories, these techniques can highlight the emergent properties underlying multidimensional datasets and help make better scientific predictions.
-  authors: S.M Morrison, J. Buongiorno, R. T. Downs, A. Eleish, P. Fox, D. Giovannelli, J.T. Golden, D.R. Hummer, G. Hystad, L.H.Kellogg, O. Kreylos, S. Krivovichev, C. Liu, A. Merdith, A. Prabhu, J. Ralph, S. Runyon, S. Zahirovic, R.M. Hazen
-  doi: 10.3389/feart.2020.00208
-  link:
-    url: https://doi.org/10.3389/feart.2020.00208
-    display: Frotiers in Earth Science, 2020
-  highlight: 1
-  news2:  
-  
-
-- title: "Evidence for a growth zone for deep subsurface microbial clades in near-surface anoxic sediments."
+  - title: "Microbiome variation across two hemlock species with hemlock woolly adelgid infestation"
   image:
-  description: Data science has a lot to offer to the geoscience community. This paper reviewes the latest developments in mineral ecology using cutting edge visualization techniques, network analysis, and affinity algorithms. When applied to large, public data repositories, these techniques can highlight the emergent properties underlying multidimensional datasets and help make better scientific predictions.
-  authors: Lloyd, K.G., Bird, J.T., Buongiorno, J., Deas, E., Kevorkian, R., Noordhoek, T., Rosalsky, J., Roy, T. 
-  doi: 10.1128/AEM.00877-20
+  description: 
+  authors: Nicholas C Dove, Timothy J Rogers, Christy Leppanen, Daniel Simberloff, James A Fordyce, Veronica A Brown, Anthony V LeBude, Thomas G Ranney, Melissa A Cregger
+  doi: 10.3389/fmicb.2020.01528 
   link:
-    url: https://doi.org/10.1128/AEM.00877-20
-    display: Applied and Environmental Microbiology, 2020
+    url: https://doi.org/10.3389/fmicb.2020.01528 
+    display: Frontiers in Microbiology, 2020 
   highlight: 0
   news2: 
 
-
-
-
-- title: "Complex microbial communities drive iron and sulfur cycling in Arctic fjord sediments"
-  image: sediment.jpg
-  description: Iron and sulfur cycling in Van Keulenfjord, Svalbard, is mediated both by abiotic chemical reactions as well as microbial metabolisms and byproducts. In this paper, we examined microbial community composition by 16S rRNA gene analysis and sedimentary organic matter at high depth resolution of 1 cm down to ~20 cm at two sites. Ordination analysis and microbial networks suggests that as glaciers retreat, microbial communities will become less complex and sulfate reducers will potentially outcompete microorganisms that respire iron and manganese. Code for analysis and figures can be found on my Github.   
-  authors: J. Buongiorno, L.C. Herbert, L. M. Wehrmann, A. B. Michaud, K. Laufer, H. R&Oslash;y, B.B. J&Oslash;rgensen, A. Sznkiewicz, A. Faiia, K.M Yeager, K. Schindler, K.G. Lloyd
-  doi: 10.1128/AEM.00949-19
+  - title: "Exploring variation in phyllosphere microbial communities across four hemlock species"
+  image:
+  description: The hemlock woolly adelgid (HWA) is an insect native to Asia and likely western North America. First reported in eastern North America in 1951, it has devastated eastern hemlock (Tsuga canadensis) populations. Loss of hemlock will greatly affect the structure and function of eastern forests. Susceptibility to adelgid infestation varies within eastern hemlocks and across other hemlock species. Our study was conducted to determine whether eastern hemlocks share a similar stem (phyllosphere) microbial community with other co-occurring hemlocks and whether community-level shifts are associated within trees of the same species based on HWA infestation. Surprisingly, we found no difference in microbial community composition or diversity between trees of the same species based on the level of HWA infestation. However, microbial communities varied significantly across the four hemlock trees sampled, native T. canadensis and three non-natives: Tsuga chinensis, Tsuga dumosa, and Tsuga sieboldii. Within these tree hosts, microbial communities from T. dumosa and T. chinensis clustered together, and microbial communities from T. canadensis and T. sieboldii clustered separately from all other tree species. Additionally, specific indicator taxa were identified for all the tree species sampled. These results indicate that Asian hemlocks might not fill the same niche in eastern forests as the native eastern hemlock. Further work should be conducted to determine how differences in hemlock species and associated microbial communities might scale up to alter organismal interactions involving hemlocks.
+  authors: Timothy J Rogers, Christy Leppanen, Veronica Brown, James A Fordyce, Anthony LeBude, Thomas Ranney, Daniel Simberloff, Melissa A Cregger
+  doi:  10.1002/ecs2.2524
   link:
-    url: https://aem.asm.org/content/85/14/e00949-19
-    display: Applied and Environmental Microbiology, 2019
+    url: https://doi.org/10.1002/ecs2.2524
+    display: Ecosphere, 2018 
   highlight: 1
-  news2:
-  
-- title: "Interlaboratory Quantification of Bacteria and Archaea in Deeply Buried Sediments of the Baltic Sea (IODP Expedition 347)"
-  image: microscope.jpg
-  description: For many years following the first discovery of microbes in deeply-buried marine sediments, failure to find Archaea seemed like good evidence that the deep subsurface biosphere is a bacterial world. However, we hypothesized that this finding was a result of a methodological artifact that biases results toward bacteria. In this paper, we test this hypthosis. We found that instead, failure to identify Archaea rests with very high limits of detection for microscopy and suggested qPCR as a better method for quantification of biomass.      
-  authors: Buongiorno J., Turner S. Webster G., Asai M., Shumaker A. K., Roy T., Weightman A, Schippers,  Lloyd K. G. 
-  doi: 10.1093/femsec/fix007
-  link:
-    url: https://pubmed.ncbi.nlm.nih.gov/28104666/
-    display: FEMS Microbiology Ecology, 2017
-  highlight: 1
-  news2:
+  news2: 
 
-  
-- title: "Methanogens in the Antarctic Dry Valley Permafrost"
-  image: Methanogen.jpg
-  description: Methanogens generate the powerful greenhouse gas, methane. A large question with climate change is how thawing permafrost will affect the trajectory of methane dynamics -- will thawing lead to a positive feedback loop where more warming means more methane which means more warming? In this paper, we interrogated a methanogenic genome from Antarctica, the first ever recontructed from Antarctic permafrost. We found several different methane-generating pathways. Protein modeling highlights protein adaptations that allow this microbe to endure the harsh permafrost environment.  
-  authors: J. Buongiorno, J.T. Bird, K.G. Lloyd, T. Vishnivetskaya
-  doi: https://doi.org/10.1093/femsec/fiy109
-  link:
-    url: https://academic.oup.com/femsec/article/94/8/fiy109/5033399
-    display: FEMS Microbiology Ecology, 2018
-  highlight: 1
-  news2:  
-  
-
-  
