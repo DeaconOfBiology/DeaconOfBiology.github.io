@@ -1,0 +1,13 @@
+
+<div class="well">
+<h4>News</h4>
+
+{% for article in site.data.news limit:5 %}
+{{ article.date }}
+<p><em>{{ article.headline }}</em></p>
+{% endfor %}
+
+<h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h4>
+<p> <a class="twitter-timeline" data-height="900" href="https://twitter.com/DrJoyBuongiorno?ref_src=twsrc%5Etfw">Tweets by DrJoyBuongiorno</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
+    </div>

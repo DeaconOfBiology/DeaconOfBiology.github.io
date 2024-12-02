@@ -1,0 +1,120 @@
+- title: "Chemolithoautotroph distributions across the subsurface of a convergent margin"
+  image:
+  description: 
+  authors: Rogers, T.J., Buongiorno, J., Jessen, G.L., Schrenk, M., Fordyce J.A., de Moor, J.A., Ramirez, C., Barry, P.H., Yücel, M, Selcim M., Cordone, A., Giovannelli, D., Lloyd, K.G.
+  doi: https://doi.org/10.5281/zenodo.6259294
+  link:
+    url: https://rdcu.be/cZpyO
+    display: International Society of Microbial Ecology Journal, 2021
+  highlight: 0
+  news2:  
+
+- title: "Novel taxa of Acidobacteriota implicated in seafloor sulfur cycling"
+  image: svalbardensis.png
+  description: Sulfate reduction is a major process in marine sediments, the activities, distributions, and diversity of SRMs have been relatively well studied. Surveys of functional marker genes for sulfite/sulfate reducers in marine sediments, i.e., of dsrAB, have repeatedly shown that dsrAB from the phylum Desulfobacterota are typically the dominant dsrAB-harboring group in marine sediments, but importantly, that several other lineages of uncultivated dsrAB-harboring organisms are also abundant and prevalent. In this study, we aimed to gain insights into the metabolic potential of uncultured Acidobacteriota lineages in marine sediments, as well as their diversity and distributions. We therefore recovered metagenome-assembled genomes (MAGs) from abundant Acidobacteriota populations present in marine fjord sediments of Svalbard, and predicted their metabolic features. Focus was placed on MAGs from the class Thermoanaerobaculia of the Acidobacteriota, which represent a newly described lineage of dsrAB-harboring organisms that may be important sulfur cycling bacteria in marine sediments. These analyses were complemented with comparative genomics, incubation experiments, transcript analyses, and analyses of Acidobacteriota distributions in Svalbard sediments and publicly available datasets, together revealing they may play various roles in sedimentary biogeochemical cycles, and that they are a prominent group of sulfur-dissimilating organisms.
+  authors: M. Flieder, J. Buongiorno, C. W. Herbold, B. Hausmann, T. Rattei, K. G. Lloyd, A. Loy, and K. Wasmund.
+  doi: https://doi.org/10.1038/s41396-021-00992-0
+  link:
+    url: https://doi.org/10.1038/s41396-021-00992-0
+    display: ISME J, 2021
+  highlight: 1
+  news2: I made a KBase Narrative landing page <a href= 'https://kbase.us/n/97146/7/'> here </a> so you can explore our data and analysis.
+
+
+- title: "Effect of tectonic processes on biosphere–geosphere feedbacks across a convergent margin"
+  image: Nat_geosci.png
+  description: By combining geochemistry, isotope measurements, metagenomic sequencing, network analysis, and modeling, we show in this paper that subsurface communities of chemolithoautotrophs in the Costa Rican forearc subsurface biosphere could sequester 1.4 × 109 to 1.4 × 1010 mol of carbon per year, which would decrease estimates of the total carbon delivered to the mantle by 2 to 22%. In addition, we show that tectonic processes influence the community composition observed at the surface, shining a light on an underappreciated geobiochemical phenomenon that drives the co-evolution of the biosphere and the geosphere. 
+  authors: K. M. Fullerton, M. O. Schrenk, M. Yücel, E. Manini, M. Basili, T. J. Rogers, D. Fattorini, M. Di Carlo, G. d’Errico, F. Regoli, M. Nakagawa, C. Vetriani, F. Smedile, C. Ramírez, H. Miller, S. M. Morrison, J. Buongiorno, G. L. Jessen, A. D. Steen, M. Martínez, J. M. de Moor, P. H. Barry, D. Giovannelli & K. G. Lloyd
+  doi: 10.1038/s41561-021-00725-0
+  link:
+    url: https://doi.org/10.1038/s41561-021-00725-0
+    display: Nature Geoscience, 2021
+  highlight: 1
+  news2:
+
+- title: "Woeseiales transcriptional response to shallow burial in Arctic fjord surface sediment"
+  image: Sox.png
+  description: The focus of this paper is a member of the Gammaproteobacteria found in marine sediments worldwide named Woeseiales (formerly JTB255). To understand the response to burial within this clade, we used a MAG-centric transcriptomic approach. We discovered that transcripts for a single gene increased by ~1000x upon burial within just the first few cm of sediment, while other gene transcripts decrease. This points to a potential dormancy response without canonical sporulation. Code for analysis and figures can be found on my Github. 
+  authors: J.Buongiorno, K. Sipes, K. Wasmund, A. Loy, K.G. Lloyd
+  doi: 10.1371/journal.pone.0234839
+  link:
+    url: https://doi.org/10.1371/journal.pone.0234839
+    display: PloS ONE, 2020
+  highlight: 1
+  news2:
+
+
+- title: "Mineralized microbialites as archives of environmental evolution, Laguna Negra, Catamarca Province, Argentina"
+  image: thumb-Geobio_cover.jpg
+  description: In this paper, we examined isotopic and elemental signatures in carbonate microbialites a.k.a microbially-mediated rocks. The concentric bands inside the rock preserve a time-series of lake evolution. Much like tree rings, these laminations allow reconstruction of lake history through interpretation of paired isotopes of carbon, sedimentary organic matter, and trace metal content. Code for analysis and figures can be found on my Github. 
+  authors: J. Buongiorno, F.J. Gomez, D.A. Fike, L.C. Kah
+  doi: 10.1111/gbi.12327
+  link:
+    url: https://doi.org/10.1111/gbi.12327
+    display: Geobiology, 2019
+  highlight: 1
+  news2:
+
+
+- title: "Exploring Carbon Mineral Systems: Recent Advances in C Mineral Evolution, Mineral Ecology, and Network Analysis"
+  image: Review.jpg
+  description: Data science has a lot to offer to the geoscience community. This paper reviewes the latest developments in mineral ecology using cutting edge visualization techniques, network analysis, and affinity algorithms. When applied to large, public data repositories, these techniques can highlight the emergent properties underlying multidimensional datasets and help make better scientific predictions.
+  authors: S.M Morrison, J. Buongiorno, R. T. Downs, A. Eleish, P. Fox, D. Giovannelli, J.T. Golden, D.R. Hummer, G. Hystad, L.H.Kellogg, O. Kreylos, S. Krivovichev, C. Liu, A. Merdith, A. Prabhu, J. Ralph, S. Runyon, S. Zahirovic, R.M. Hazen
+  doi: 10.3389/feart.2020.00208
+  link:
+    url: https://doi.org/10.3389/feart.2020.00208
+    display: Frotiers in Earth Science, 2020
+  highlight: 1
+  news2:  
+  
+
+- title: "Evidence for a growth zone for deep subsurface microbial clades in near-surface anoxic sediments."
+  image:
+  description: Data science has a lot to offer to the geoscience community. This paper reviewes the latest developments in mineral ecology using cutting edge visualization techniques, network analysis, and affinity algorithms. When applied to large, public data repositories, these techniques can highlight the emergent properties underlying multidimensional datasets and help make better scientific predictions.
+  authors: Lloyd, K.G., Bird, J.T., Buongiorno, J., Deas, E., Kevorkian, R., Noordhoek, T., Rosalsky, J., Roy, T. 
+  doi: 10.1128/AEM.00877-20
+  link:
+    url: https://doi.org/10.1128/AEM.00877-20
+    display: Applied and Environmental Microbiology, 2020
+  highlight: 0
+  news2: 
+
+
+
+
+- title: "Complex microbial communities drive iron and sulfur cycling in Arctic fjord sediments"
+  image: sediment.jpg
+  description: Iron and sulfur cycling in Van Keulenfjord, Svalbard, is mediated both by abiotic chemical reactions as well as microbial metabolisms and byproducts. In this paper, we examined microbial community composition by 16S rRNA gene analysis and sedimentary organic matter at high depth resolution of 1 cm down to ~20 cm at two sites. Ordination analysis and microbial networks suggests that as glaciers retreat, microbial communities will become less complex and sulfate reducers will potentially outcompete microorganisms that respire iron and manganese. Code for analysis and figures can be found on my Github.   
+  authors: J. Buongiorno, L.C. Herbert, L. M. Wehrmann, A. B. Michaud, K. Laufer, H. R&Oslash;y, B.B. J&Oslash;rgensen, A. Sznkiewicz, A. Faiia, K.M Yeager, K. Schindler, K.G. Lloyd
+  doi: 10.1128/AEM.00949-19
+  link:
+    url: https://aem.asm.org/content/85/14/e00949-19
+    display: Applied and Environmental Microbiology, 2019
+  highlight: 1
+  news2:
+  
+- title: "Interlaboratory Quantification of Bacteria and Archaea in Deeply Buried Sediments of the Baltic Sea (IODP Expedition 347)"
+  image: microscope.jpg
+  description: For many years following the first discovery of microbes in deeply-buried marine sediments, failure to find Archaea seemed like good evidence that the deep subsurface biosphere is a bacterial world. However, we hypothesized that this finding was a result of a methodological artifact that biases results toward bacteria. In this paper, we test this hypthosis. We found that instead, failure to identify Archaea rests with very high limits of detection for microscopy and suggested qPCR as a better method for quantification of biomass.      
+  authors: Buongiorno J., Turner S. Webster G., Asai M., Shumaker A. K., Roy T., Weightman A, Schippers,  Lloyd K. G. 
+  doi: 10.1093/femsec/fix007
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/28104666/
+    display: FEMS Microbiology Ecology, 2017
+  highlight: 1
+  news2:
+
+  
+- title: "Methanogens in the Antarctic Dry Valley Permafrost"
+  image: Methanogen.jpg
+  description: Methanogens generate the powerful greenhouse gas, methane. A large question with climate change is how thawing permafrost will affect the trajectory of methane dynamics -- will thawing lead to a positive feedback loop where more warming means more methane which means more warming? In this paper, we interrogated a methanogenic genome from Antarctica, the first ever recontructed from Antarctic permafrost. We found several different methane-generating pathways. Protein modeling highlights protein adaptations that allow this microbe to endure the harsh permafrost environment.  
+  authors: J. Buongiorno, J.T. Bird, K.G. Lloyd, T. Vishnivetskaya
+  doi: https://doi.org/10.1093/femsec/fiy109
+  link:
+    url: https://academic.oup.com/femsec/article/94/8/fiy109/5033399
+    display: FEMS Microbiology Ecology, 2018
+  highlight: 1
+  news2:  
+  
+
+  
